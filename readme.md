@@ -57,9 +57,8 @@ An intelligent **research paper assistant** that enables users to search ArXiv p
 
 - Python **3.8 or higher**
 - Google API Key (for Gemini)
-- Active internet connection
 
----
+
 
 
 
