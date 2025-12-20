@@ -61,10 +61,5 @@ An intelligent **research paper assistant** that enables users to search ArXiv p
 
 ---
 
-## 🚀 Installation
 
-### 1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/Abhiramkumarsoni/ArXiv-Paper-Search-Q-A-System.git
-cd arxiv-qa-system
