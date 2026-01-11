@@ -1,6 +1,0 @@
-venv
-venv2
-.env
-rough.ipynb
-__pycache__/
-.vscode
