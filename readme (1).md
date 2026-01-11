@@ -1,4 +1,4 @@
-# 📚 ArXiv Paper Search & Q&A System
+# 📚 Paper Search & Q&A System
 
 An intelligent **research paper assistant** that enables users to search ArXiv papers and ask natural language questions about them using an **AI-powered Retrieval-Augmented Generation (RAG)** system.
 
@@ -63,8 +63,5 @@ An intelligent **research paper assistant** that enables users to search ArXiv p
 
 ## 🚀 Installation
 
-### 1️⃣ Clone the Repository
 
-```bash
-git clone https://github.com/Abhiramkumarsoni/ArXiv-Paper-Search-Q-A-System.git
-cd arxiv-qa-system
+
